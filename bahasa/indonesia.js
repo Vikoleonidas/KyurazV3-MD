@@ -87,14 +87,13 @@ exports.notNum = (q) => {
 exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+Jangan Spam, Spam = Block
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Kyuraz-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -790,6 +789,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Ryutenzo
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -799,13 +799,13 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
+1. Jangan spam bot. 
 Sanksi: *❎ WARN/SOFT BLOCK*
 
-2. Jangan telepon bot. ☎️
+2. Jangan telepon bot. 
 Sanksi: *❎ SOFT BLOCK*
 
-3. Jangan mengeksploitasi bot.😖
+3. Jangan mengeksploitasi bot.
 Sanksi: *PERMANENT BLOCK*
 
 🗯️ Bot tidak atau lambat merespon ?
@@ -826,23 +826,17 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan Kyuraz di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
-😖🙏
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Kyuraz
+😅🙏
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
-	
-╭ 𝖭𝖺𝗆𝖺 :
-├ 𝖴𝗆𝗎𝗋 :
-├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
-├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+	return`Beban Telah Join Ke Grup ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Beban Out
 Goodbye`
 }
 exports.source = () =>{
@@ -1464,6 +1458,7 @@ exports.tqto = () =>{
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Ryutenzo
 ├ Penyedia Module
 ╰❒ And All Support
 `
@@ -1471,7 +1466,7 @@ exports.tqto = () =>{
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-├ ${prefix}nomorhoki 887435047326
+├ ${prefix}nomorhoki 883819082780
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
 ├ ${prefix}ramaljodoh

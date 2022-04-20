@@ -21,7 +21,7 @@ global.available = false //status online (online)
 global.botname = "Kyuraz-Md" //namabot kalian
 global.ownername= "Ryutenzo" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "http://Botwa.rf.gd" //bebas asal jan hapus
 global.github = "https://Vikoleonidas.github.io/" //bebas
 global.email = "recehgl97@gmail.com@gmail.com" //bebas
 global.region = "Indonesia" //bebas
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/ce3b5ac1b2dded9ee7d94.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283819082780"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Kyuraz-Md' //sticker wm ubah
-global.author = 'Ryutenzo' //sticker wm ganti nama kalian
+global.packname = '© Ryutenzo' //sticker wm ubah
+global.author = '6283819082780' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
